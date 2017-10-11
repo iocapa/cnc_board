@@ -9,7 +9,7 @@ MEMORY
 }
 
 /*
-memory sections for the stm32f303CCT6
+memory sections for the LPC1114FN28
 */  
 SECTIONS
 {	
